@@ -29,6 +29,15 @@ AnyLoy is a cross-platform mobile loyalty application designed to enhance custom
 
 * Increased customer retention by 25%
 * Improved overall user engagement
+  
+## 📸 Screenshots
+![FirstScreen](initial_page.png)
+![Registration](registration.png)
+![OTP_Verification](otp_verification.png)
+![Login](login.png)
+![Home](Home_page_customer.png)
+![Deal/Offers](members_deal.png)
+
 
 ## 🔒 Note
 
